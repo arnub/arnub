@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-[![Arnub's github stats](https://github-readme-stats.vercel.app/api?username=arnub)](https://github.com/arnub/github-readme-stats&theme=highcontrast)
+[![Arnub's github stats](https://github-readme-stats.vercel.app/api?username=arnub)](https://github.com/arnub/github-readme-stats&theme=solarized-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnub&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnub&theme=solarized-dark)
 
 <!--
 **arnub/arnub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

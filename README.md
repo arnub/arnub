@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Arnub's github stats](https://github-readme-stats.vercel.app/api?username=arnub)](https://github.com/arnub/github-readme-stats&theme=vue)
 

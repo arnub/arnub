@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Github](https://img.shields.io/github/followers/arnub?label=Follow&style=social)](https://github.com/arnub)
+
+[![Arnub's github stats](https://github-readme-stats.vercel.app/api?username=arnub)](https://github.com/arnub/github-readme-stats&theme=vue)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnub&theme=vue)
 
 <!--

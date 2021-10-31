@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Github](https://img.shields.io/github/followers/arnub?label=Follow&style=social)](https://github.com/arnub)
+
 
 [![Arnub's github stats](https://github-readme-stats.vercel.app/api?username=arnub)](https://github.com/arnub/github-readme-stats&theme=vue)
 
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+[![Github](https://img.shields.io/github/followers/arnub?label=Follow&style=social)](https://github.com/arnub) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)

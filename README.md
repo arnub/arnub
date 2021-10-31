@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Arnub's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnub&theme=dark&show_icons=true)
+![Arnub's GitHub stats](https://github-readme-stats.vercel.app/api?username=arnub&theme=highcontrast&show_icons=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arnub&theme=solarized-dark)

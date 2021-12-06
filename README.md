@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Github](https://img.shields.io/github/followers/arnub?label=Follow&style=social)](https://github.com/arnub) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+[![Github](https://img.shields.io/github/followers/arnub?label=Follow&style=social)](https://github.com/arnub)
